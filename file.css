@@ -107,6 +107,11 @@ a {
     padding: 10%;
 }
 
+img {
+    height: 50px;
+    padding: 10%;
+}
+
 .col-body {
     color: rgba(238, 237, 237, 0.397);
     padding: 5% 0;
