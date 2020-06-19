@@ -78,6 +78,10 @@ a {
     text-decoration: none;
 }
 
+.header_nav li a:hover {
+    color: white;
+}
+
 .main {
     margin: auto;
     text-align: center;
